@@ -110,6 +110,4 @@ router.get("/", auth, async (req, res) => {
 
 module.exports = router;
 
-//cUlNctbLAkQS9UZN
 
-// mongodb+srv://admin:<password>@cluster0-rsk9v.mongodb.net/<dbname>?retryWrites=true&w=majority
